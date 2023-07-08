@@ -1,2 +1,2 @@
 # PetProject1
-nginx+lb+postgres+docker+python3
+nginx+lb+postgres+docker-compose+django
